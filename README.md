@@ -1,6 +1,3 @@
-# JFRD-ULTRAKER
-
-
 …or create a new repository on the command line
 echo # JFRD-ULTRAKER  README.md
 git init
