@@ -50,7 +50,7 @@ const StartPage = ({ children }) => {
         {!useMediaQuery(theme.breakpoints.down('md'))
           && (
           <svg height="64" width="240">
-            <use xlinkHref="/logo2.svg#img" />
+            <use xlinkHref="/logo.svg#img" />
           </svg>
           )}
       </div>
