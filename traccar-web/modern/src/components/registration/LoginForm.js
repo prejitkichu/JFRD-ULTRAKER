@@ -68,7 +68,7 @@ const LoginForm = () => {
           && (
           <Grid item className={classes.logoContainer}>
             <svg height="64" width="240">
-              <use xlinkHref="/logo2.svg#img" />
+              <use xlinkHref="/logo.svg#img" />
             </svg>
           </Grid>
           )}
